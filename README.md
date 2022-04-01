@@ -1,0 +1,2 @@
+# thingJs
+thingJs测试
